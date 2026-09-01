@@ -74,7 +74,7 @@ AI-HR-Policy-Assistant/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-github-repository-url>
+git clone https://github.com/Shwethabakkesh/AI-HR-Policy-Assistant
 cd AI-HR-Policy-Assistant
 ```
 
